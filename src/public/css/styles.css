@@ -15,12 +15,12 @@ body, html {
 }
 
 .button-container {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #2a2c2e;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -29,7 +29,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #000000;
 }
 
 a.enterButton {
@@ -37,30 +37,30 @@ a.enterButton {
     text-decoration: none;
 }
 
-#mensajes{
-    margin-top: 15px;
+#messages{
+    margin-top: 10px;
     height: 600px;
     overflow-y: scroll;
-    width: 50%; 
-    border: 2px solid #0056b3;
+    width: 90%; 
+    border: 2px solid #2a2c2e;
     font-size: 20px; 
     padding: 10px; 
     box-sizing: border-box; 
     margin-bottom: 20px; 
 }
 
-.mensaje{
-    border: 2px solid #0056b3;
+.message{
+    border: 2px solid #2a2c2e;
     border-radius: 5px;
     padding: 5px;
-    background-color: rgb(179, 230, 245);
+    background-color: rgb(155, 155, 155);
     display: inline-block;
     margin-top: 5px;
 }
 
 .input{
-    border: 2px solid #0056b3;
-    width: 40%;
+    border: 2px solid #2a2c2e;
+    width: 80%;
     height: 30px;
     font-size: 20px; 
 }
